@@ -7,3 +7,9 @@ This project is just a fun experiment for me to learn more about working with Py
 * Movement system
 * Combat system
 * Sprites
+
+##Credits
+###Sprites
+* NO Body
+* Barubary
+* Silverbolt
